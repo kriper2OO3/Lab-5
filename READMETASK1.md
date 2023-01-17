@@ -41,4 +41,4 @@ plt.show()
 
 ### Сам график
 
-![image](https://github.com/kriper2OO3/Lab2/blob/main/Selection-Sort-Animation.gif)
+![image](https://github.com/kriper2OO3/Lab-5/blob/main/Figure_1.png)
