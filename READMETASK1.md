@@ -39,5 +39,6 @@ plt.title("функция: y = sin(x) * log(x;2) и ее Экстремум")
 plt.show()
 ```
 
-###Сам график
+### Сам график
 
+![image](https://github.com/kriper2OO3/Lab2/blob/main/Selection-Sort-Animation.gif)
